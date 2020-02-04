@@ -2005,6 +2005,7 @@
 /content/PyTorch-YOLOv3/data/custom/images/Chair497.jpg
 /content/PyTorch-YOLOv3/data/custom/images/Chair498.jpg
 /content/PyTorch-YOLOv3/data/custom/images/Chair499.jpg
+/content/PyTorch-YOLOv3/data/custom/images/Cupboard8.jpg
 /content/PyTorch-YOLOv3/data/custom/images/Cupboard11.jpg
 /content/PyTorch-YOLOv3/data/custom/images/Cupboard12.jpg
 /content/PyTorch-YOLOv3/data/custom/images/Cupboard13.jpg
@@ -2484,6 +2485,7 @@
 /content/PyTorch-YOLOv3/data/custom/images/Cupboard487.jpg
 /content/PyTorch-YOLOv3/data/custom/images/Cupboard488.jpg
 /content/PyTorch-YOLOv3/data/custom/images/Cupboard489.jpg
+/content/PyTorch-YOLOv3/data/custom/images/Door8.jpg
 /content/PyTorch-YOLOv3/data/custom/images/Door10.jpg
 /content/PyTorch-YOLOv3/data/custom/images/Door11.jpg
 /content/PyTorch-YOLOv3/data/custom/images/Door12.jpg
@@ -2976,6 +2978,7 @@
 /content/PyTorch-YOLOv3/data/custom/images/Door499.jpg
 /content/PyTorch-YOLOv3/data/custom/images/Door500.jpg
 /content/PyTorch-YOLOv3/data/custom/images/Door501.jpg
+/content/PyTorch-YOLOv3/data/custom/images/Mobile8.jpg
 /content/PyTorch-YOLOv3/data/custom/images/Mobile10.jpg
 /content/PyTorch-YOLOv3/data/custom/images/Mobile11.jpg
 /content/PyTorch-YOLOv3/data/custom/images/Mobile12.jpg
@@ -3508,6 +3511,7 @@
 /content/PyTorch-YOLOv3/data/custom/images/Mobile539.jpg
 /content/PyTorch-YOLOv3/data/custom/images/Mobile540.jpg
 /content/PyTorch-YOLOv3/data/custom/images/Mobile541.jpg
+/content/PyTorch-YOLOv3/data/custom/images/Pen8.jpg
 /content/PyTorch-YOLOv3/data/custom/images/Pen10.jpg
 /content/PyTorch-YOLOv3/data/custom/images/Pen11.jpg
 /content/PyTorch-YOLOv3/data/custom/images/Pen12.jpg
@@ -3943,6 +3947,7 @@
 /content/PyTorch-YOLOv3/data/custom/images/Pen442.jpeg
 /content/PyTorch-YOLOv3/data/custom/images/Pen443.jpeg
 /content/PyTorch-YOLOv3/data/custom/images/Pen444.jpeg
+/content/PyTorch-YOLOv3/data/custom/images/Person8.jpg
 /content/PyTorch-YOLOv3/data/custom/images/Person10.jpg
 /content/PyTorch-YOLOv3/data/custom/images/Person11.jpg
 /content/PyTorch-YOLOv3/data/custom/images/Person12.jpg
@@ -4478,6 +4483,7 @@
 /content/PyTorch-YOLOv3/data/custom/images/Person542.jpg
 /content/PyTorch-YOLOv3/data/custom/images/Person543.jpg
 /content/PyTorch-YOLOv3/data/custom/images/Person544.jpg
+/content/PyTorch-YOLOv3/data/custom/images/Table8.jpg
 /content/PyTorch-YOLOv3/data/custom/images/Table10.jpg
 /content/PyTorch-YOLOv3/data/custom/images/Table11.jpg
 /content/PyTorch-YOLOv3/data/custom/images/Table12.jpg
