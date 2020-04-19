@@ -176,3 +176,5 @@ if __name__ == "__main__":
 
         if (epoch + 1) % 10 == 0:
             torch.save(model.state_dict(), f"checkpoints/yolov3_ckpt_%d.pth" % epoch)
+            path = f"/content/gdrive/My Drive/yolov3_ckpt_%d.pth" % epoch 
+            torch.save(model.state_dict(), path)
