@@ -174,5 +174,5 @@ if __name__ == "__main__":
 #             print(AsciiTable(ap_table).table)
 #             print(f"---- mAP {AP.mean()}")
 
-        if epoch % opt.checkpoint_interval == 0:
+        if epoch == 99:
             torch.save(model.state_dict(), f"checkpoints/yolov3_ckpt_%d.pth" % epoch)
